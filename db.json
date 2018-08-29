@@ -46,7 +46,7 @@
                 "crm_customer_id": 1222,
                 "customer": "Apple Company",
                 "company_link" :"https://www.imagemedia.com/contact/",
-                "overdue": 1
+                "overdue": 0
             }        
           ]
     }    
