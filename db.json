@@ -12,7 +12,7 @@
                 "crm_customer_id": 12345,
                 "customer": "ACME Company",
                 "company_link":"https://www.imagemedia.com/contact/",
-                "overdue": 1
+                "overdue": 0
             }        
           ]
     },
@@ -29,7 +29,7 @@
                 "crm_customer_id": 1111,
                 "customer": "Disney Company",
                 "company_link" :"https://www.imagemedia.com/contact/",
-                "overdue": 1
+                "overdue": 0
             }        
           ]
     },
