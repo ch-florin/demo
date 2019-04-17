@@ -1,3 +1,23 @@
 {
-  "Words": ["Transilvania", "Liviu Dragnea", "Valcov","Kelemen"]
+  {
+        "firstName": "Maze Game",
+        "lastName": "Andreea",
+        "phone": "1231231231"
+    },
+    {
+        "firstName": "Hadnagy",
+        "lastName": "Norbert",
+        "phone": "0754226898"
+    },
+    {
+        "firstName": "Farkas",
+        "lastName": "Attila",
+        "phone": "0754226898"
+    },
+    {
+        "firstName": "Alida",
+        "lastName": "Marton",
+        "phone": "0754226898"
+    }
+
 }   
