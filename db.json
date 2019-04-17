@@ -1,5 +1,6 @@
 {
-  {
+   "list": [
+    {
         "firstName": "Maze Game",
         "lastName": "Andreea",
         "phone": "1231231231"
@@ -19,5 +20,5 @@
         "lastName": "Marton",
         "phone": "0754226898"
     }
-
-}   
+]
+}
